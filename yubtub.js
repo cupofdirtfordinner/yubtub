@@ -1,1 +1,2 @@
-<input type="text" id="myText" value="url here">
+var url = document.getElementById("myURL").value;
+  document.getElementById("urlin").innerHTML = x;
