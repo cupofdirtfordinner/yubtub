@@ -1,2 +1,1 @@
-var input = document.createElement("INPUT");
-input.setAttribute("type", "input");
+<input type="text" id="myText" value="url here">
